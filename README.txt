@@ -1,40 +1,26 @@
-Prologue by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Vishnu Rachagani's Portfolio
 
+## Description
 
-This is Prologue, a simple, single page responsive site template. It features a
-clean, minimalistic design and a sticky sidebar with navigation-linked scrolling.
+This portfolio website was built using a template from HTML5 UP and has been customized to suit my personal needs. It showcases my projects, skills, and experience as a Software Developer.
 
-Demo content images* are courtesy of the ridiculously talented Felicia Simion. Check out
-more of her amazing work over at deviantART:
+## Original Template
 
-http://ineedchemicalx.deviantart.com/
+The original template was designed by HTML5 UP and is available at [HTML5 UP](https://html5up.net). The template is licensed under the Creative Commons Attribution 3.0 Unported license.
 
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Felicia's work without her explicit permission!)
+## Modifications
 
-Demo banner images* courtesy of Unsplash, a radtastic collection of CC0 (public domain)
-images you can use for pretty much whatever.
+- Customized the layout and design to fit personal branding.
+- Updated content to include personal information, resume details, and portfolio projects.
+- Added additional styling and functional changes as needed.
 
-(* = Not included)
+## Credits
 
-AJ
-aj@lkn.io | @ajlkn
+- Original design by [HTML5 UP](https://html5up.net)
+- Licensed under the Creative Commons Attribution 3.0 Unported license.
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+## License
 
+This project is licensed under the Creative Commons Attribution 3.0 Unported license. You are free to share, copy, redistribute, remix, transform, and build upon the material for any purpose, even commercially, as long as you provide appropriate credit, a link to the license, and indicate if changes were made.
 
-Credits:
-
-	Demo Images:
-		Felicia Simion (ineedchemicalx.deviantart.com)
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+More information about the license can be found at: [https://creativecommons.org/licenses/by/3.0/](https://creativecommons.org/licenses/by/3.0/)
