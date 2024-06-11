@@ -6,7 +6,7 @@ This portfolio website was built using a template from HTML5 UP and has been cus
 
 ## Original Template
 
-The original template was designed by HTML5 UP and is available at [HTML5 UP](https://html5up.net). The template is licensed under the Creative Commons Attribution 3.0 Unported license.
+The original template was designed by HTML5 UP and is available at [HTML5 UP] (https://html5up.net). The template is licensed under the Creative Commons Attribution 3.0 Unported license.
 
 ## Modifications
 
